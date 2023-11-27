@@ -1,0 +1,56 @@
+.pageList-container {
+  padding-top: 25px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.pageNumber {
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 49px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-right: 5px;
+  padding-top: 10px;
+}
+.headingsText {
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #667085;
+  display: flex;
+  align-items: center;
+}
+.multipleIcon {
+  font-size: 10px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.bulletPoint {
+  background-color: #d9d9d9;
+  width: 3px;
+  height: 3px;
+  border-radius: 100px;
+}
+
+.tooltipHeader {
+  background-color: #e3e5e9;
+  padding: 12px, 17px, 12px, 17px;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.paginationContainer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin: 30px 0px;
+  padding-right: 5px;
+}
